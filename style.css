@@ -616,11 +616,11 @@ form > button:active {
     max-width: 500px;
   }
 
-  #popup-main  {
+  #popup-main {
     padding: 20px 142px;
   }
 
-  #popup-main  > div {
+  #popup-main > div {
     border-radius: 28px;
     width: calc(100% - 284px);
   }
